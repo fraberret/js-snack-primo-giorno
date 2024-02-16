@@ -18,4 +18,10 @@ console.log(PI);
     let circle = radius * 2 * PI
     console.log(circle);
 
+// EX 3
+
+var name = "Carlo"
+var name = "Marco"
+console.log(name);
+
     
