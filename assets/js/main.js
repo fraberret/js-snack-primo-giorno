@@ -10,4 +10,6 @@ console.log(PI);
 
     // EX 2/B
 
+    const PI = 3.1416
+    
     

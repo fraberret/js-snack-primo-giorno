@@ -61,16 +61,21 @@ EX 2/B
 # Instructions
 Prova ad assegnare alla costante chiamata PI il valore di 3.1416. Sai dire cosa succede?
 
+# Answer
+Da errore perche 2 costanti non possono avere lo stesso nome
+
 ## Steps
 
 - Step-1: Assegno alla costante "PI" il valore di 3.1416
-    - cambio il valore di "PI" da 3.14 a 3.1416
+    - digito: const PI = 3.1416
 
 - Step-2: Controllo il risultato
     - digito: console.log(PI)
     - vado nel browser
     - apro la console nell'inspector
     - visualizzo il risultato
+
+
 
 
 
